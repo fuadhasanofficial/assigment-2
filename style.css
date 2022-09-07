@@ -317,7 +317,7 @@ footer h1 {
 }
 
 @media only screen and (max-width:320px) {
-    body {}
+
 
     .section-2-inside {
         flex-direction: column;
